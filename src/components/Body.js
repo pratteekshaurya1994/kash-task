@@ -20,7 +20,7 @@ class Body extends Component {
                 <img className="main__div__bg" src={backgroundBasicImage} alt="background basic display"/>
                 <div className="cards">
                     <li className="single__card"></li>
-                    <h1 className="all__card__title">One App. One Card.<span className="card-catcher">For all others.</span> </h1>
+                    <h1 className="all__card__title">One App. One Card.For all others.</h1>
                 </div>
                 <div className="card__container">
                     <h1 className="main__div__title">Kashware is an exclusive ecosystem that unites your money.</h1>
